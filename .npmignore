@@ -1,8 +1,1 @@
 #Ignore all except needed files
-*
-
-# Do not ignore typings
-!typings/**
-
-# Do not ignore dist files
-!dist/**
